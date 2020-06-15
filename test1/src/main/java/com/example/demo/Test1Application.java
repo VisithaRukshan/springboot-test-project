@@ -13,6 +13,7 @@ public class Test1Application {
 		Test t1 = context.getBean(Test.class);
 		
 		t1.show();
+		
 	}
 
 }
